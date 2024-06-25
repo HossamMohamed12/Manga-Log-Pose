@@ -21,7 +21,7 @@
 
 ## ℹ️ Overview
 
-Manga Log Pose is a user-friendly, powerful tool designed for manga enthusiasts who want a seamless way to search, download, and organize manga chapters. With an intuitive custom tkinter-based GUI, Manga Log Pose makes it easy to find your favorite manga titles, download multiple chapters with a single click, and compile them into a single, easy-to-read PDF file.
+Manga Log Pose is a user-friendly, powerful tool designed for manga enthusiasts who want a seamless way to search, download, and organize manga chapters. With an intuitive customtkinter-based GUI, Manga Log Pose makes it easy to find your favorite manga titles, download multiple chapters with a single click, and compile them into a single, easy-to-read PDF file.
 
 Our software integrates with popular manga sites like ComicK and MangaFire, allowing users to search for manga titles directly within the app. It also features real-time logging, organized storage of downloaded chapters, and the ability to display manga cover images, providing a comprehensive manga management experience.
 
