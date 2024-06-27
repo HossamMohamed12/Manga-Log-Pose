@@ -5,6 +5,10 @@
 [![Python Versions](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org/downloads/)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/HossamMohamed12/manga-log-pose/issues)
 
+## Screenshots
+
+![Software GUI](test.png)
+![Generated Pdf ](test_pdf.png)
 
 ## 🌟 Highlights
 
